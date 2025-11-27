@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing, Python and Flask.**
 
-- 👨‍💻 All of my projects are available at [https://nicolasruchimura.github.io/](https://nicolasruchimura.github.io/)
+- 👨‍💻 All of my projects are available at [https://nicolasruchimura2.github.io/portfolio/)
 
 - 📫 How to reach me **nicolasruchimura@gmail.com**
 
