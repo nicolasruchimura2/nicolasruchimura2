@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Uchimura</h1>
 <h3 align="center">Informatics Engineering student</h3>
 
-- 🌱 I’m currently learning **Cloud Computing, Python and Flask.**
+- 🌱 **C, Python, Flask and Java @Dev**
 
 - 👨‍💻 All of my projects are available at [https://nicolasruchimura2.github.io/portfolio/)
 
