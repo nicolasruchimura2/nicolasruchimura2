@@ -9,5 +9,3 @@
 
 - I am still using GitHub for academic projects and study
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasruchimura2&show_icons=true&locale=en" alt="nicolasruchimura2" /></p>
-
